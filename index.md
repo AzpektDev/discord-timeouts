@@ -1,6 +1,6 @@
 ## discord-timeouts
 
-###👀 | Soon™
+### 👀 | Soon™
 We are working on this package rn, come back later...
 
 ### 📂 | Installation
